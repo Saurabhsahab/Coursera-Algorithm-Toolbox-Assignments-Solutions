@@ -1,7 +1,5 @@
-#include <algorithm>
-#include <iostream>
-#include <vector>
-
+//Saurabhsahab
+#include<bits/stdc++.h>
 using std::vector;
 
 int get_majority_element(vector<int> &a, int left, int right) {
