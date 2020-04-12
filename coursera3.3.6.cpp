@@ -1,5 +1,5 @@
+//Saurabhsahab
 #include<bits/stdc++.h>
-#include<stdlib.h>
 using namespace std;
 int main(){
     long long int n,i,s,k;
