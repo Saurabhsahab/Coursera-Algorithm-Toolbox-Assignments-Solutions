@@ -1,6 +1,5 @@
+//Saurabhsahab
 #include<bits/stdc++.h>
-#include<stdlib.h>
-#include<math.h>
 using namespace std;
 int main(){
 int n;
