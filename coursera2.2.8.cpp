@@ -1,8 +1,5 @@
+//Saurabhsahab
 #include<bits/stdc++.h>
-#include<math.h>
-#include<stdlib.h>
-#include<iostream>
-#include<stdio.h>
 using namespace std ;
 int main (){
     int i=1;
