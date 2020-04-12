@@ -1,6 +1,5 @@
-
+//Saurabhsahab
 #include<bits/stdc++.h>
-#include<stdlib.h>
 using namespace std;
 int main(){
 long long int n,k=0,i,j,s,g,c=0,m=0;
