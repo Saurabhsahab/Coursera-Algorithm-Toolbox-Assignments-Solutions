@@ -15,6 +15,7 @@ int main(){
      cout.precision(4);
      setprecision(4);
  }
+ // Bubble sort 
 for(j=0;j<n-1;j++){
          cout.precision(4);
     for(k=0;k<n-1-j;k++){
