@@ -6,8 +6,9 @@ DEAR READER,
               If you are reading this then you're at the right place .
               Go on and have a look to various types of problems along with solutions to master competitive coding ...
               Follow me on :
-                             Hackerearth --> https://www.hackerearth.com/@saurabh2760/activity/hackerearth/
+                             HackerEarth --> https://www.hackerearth.com/@saurabh2760
                              Codeforces --> https://codeforces.com/profile/Saurabh_19
+                             CodeChef --> https://www.codechef.com/users/lordsaurabh_19
               Regards
               
              OWNER
