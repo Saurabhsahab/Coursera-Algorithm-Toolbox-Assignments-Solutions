@@ -1,5 +1,5 @@
 # coursera-algorithm-toolbox-assignments
-All assignment question's solutions of practice problems upto 4th week remaining will be uploaded soon !!
+All assignment question's solutions of practice problems upto 6th week remaining will be uploaded soon !!
 
 DEAR READER,  
 
