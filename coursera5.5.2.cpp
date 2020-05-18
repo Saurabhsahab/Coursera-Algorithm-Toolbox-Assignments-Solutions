@@ -26,7 +26,7 @@ using namespace std ;
 V optimal_sequence(int n) {
   V sequence;
   while (n >= 1) {
-    sequence.push_back(n);
+    sequence.pb(n);
     if (n % 3 == 0) {
       n /= 3;
     } else if (n % 2 == 0) {
@@ -35,7 +35,7 @@ V optimal_sequence(int n) {
       n = n - 1;
     }
   }
-  reverse(sequence.begin(), sequence.end());
+  reverse(sequence.bg(), sequence.ed());
   return sequence;
 }
 
@@ -63,9 +63,9 @@ V dynamic_sequence(ll n) {
   V sequence;
 
   for (ll i = n; i !=0; i = predecessor[i]) {
-    sequence.push_back(i);
+    sequence.pb(i);
   }
-  reverse(sequence.begin(), sequence.end());
+  reverse(sequence.bg(), sequence.ed());
   return sequence;
 }
 
