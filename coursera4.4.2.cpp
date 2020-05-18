@@ -1,6 +1,6 @@
 //Saurabhsahab
 #include<bits/stdc++.h>
-using std::vector;
+using namespace std;
 
 int get_majority_element(vector<int> &a, int left, int right) {
     if (left == right) return -1;
@@ -26,10 +26,10 @@ int get_majority_element(vector<int> &a, int left, int right) {
 
 int main() {
     int n;
-    std::cin >> n;
+    cin >> n;
     vector<int> a(n);
     for (size_t i = 0; i < a.size(); ++i) {
-        std::cin >> a[i];
+        cin >> a[i];
     }
-    std::cout << (get_majority_element(a, 0, a.size()) != -1) << '\n';
+    cout << (get_majority_element(a, 0, a.size()) != -1) << '\n';
 }
