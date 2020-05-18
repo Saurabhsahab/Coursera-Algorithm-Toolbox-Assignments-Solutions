@@ -35,7 +35,7 @@ V optimal_sequence(int n) {
       n = n - 1;
     }
   }
-  reverse(sequence.bg(), sequence.ed());
+  reverse(sequence.bg, sequence.ed);
   return sequence;
 }
 
@@ -65,7 +65,7 @@ V dynamic_sequence(ll n) {
   for (ll i = n; i !=0; i = predecessor[i]) {
     sequence.pb(i);
   }
-  reverse(sequence.bg(), sequence.ed());
+  reverse(sequence.bg, sequence.ed);
   return sequence;
 }
 
