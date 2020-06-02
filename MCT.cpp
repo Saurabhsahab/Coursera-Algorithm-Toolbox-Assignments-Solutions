@@ -8,6 +8,7 @@ using namespace std;
 #define mod 1000000007
 #define VL vector<ll>
 #define VS vector<string>
+#define LL list<ll> 
 #define SL set<ll>
 #define SC set<char>
 #define USL unordered_set<ll>
@@ -19,11 +20,14 @@ using namespace std;
 #define UMLL unordered_map<ll,ll>
 #define UMCL unordered_map<char,ll>
 #define MMLL multimap<ll,ll> 
-#define MMCL multimap<char,ll> 
-#define pb push_back
-#define in insert
+#define MMCL multimap<char,ll>
+#define mkp make_pair
+#define mkt make_tupple
 #define ln length()
 #define DO greater<ll>()
+#define er equal_range
+#define pb push_back
+#define in insert
 #define pop pop_back()
 #define bg begin()
 #define ed end()
@@ -32,7 +36,9 @@ using namespace std;
 #define f(i,s,n) for(ll i=s;i<n;i++)
 #define f1(i,s,n) for(ll i=s;i>n;i--)
 #define f2(s) for(auto E : s)
-#define IT(u) ::iterator E=u.bg
+#define it(u) ::iterator E=u.bg
+#define F first
+#define S second 
 #define AI(a,n) ll a[n]; f(i,0,n)cin>>a[i]
 #define AO(a,n) f(i,0,n)cout<<a[i]<<" "
 #define T ll t; cin>>t; while(t--)
@@ -41,5 +47,5 @@ using namespace std;
 int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(0);
-    
+
 }
