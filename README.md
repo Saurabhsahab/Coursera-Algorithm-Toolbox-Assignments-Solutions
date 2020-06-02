@@ -1,4 +1,4 @@
-# coursera-algorithm-toolbox-assignments
+# Coursera-Algorithm-Toolbox-Assignments-Solutions
 All assignment question's solutions of practice problems upto 6th week remaining will be uploaded soon !!
 
 DEAR READER,  
