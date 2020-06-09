@@ -21,7 +21,6 @@
 - Submitting work that isn’t your own always results permanent failure of understanding concept.:imp:
 
 
-
 #### :zap:**Programming Language**
 - C++17
 
