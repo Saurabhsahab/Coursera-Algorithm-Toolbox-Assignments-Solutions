@@ -16,7 +16,7 @@
 
 
 #### :alien: **Words of advice**
-- Plagiarism must be strictly avoided, breaking copyrights is a punishable offence (Respect Corsera honor code).:neutral_face:
+- Plagiarism must be strictly avoided, breaking copyrights is a punishable offence (Respect Coursera honor code).:neutral_face:
 - The codes provided in this repositery are only for reference and for better understanding any corresponding concept or logic.
 - Submitting work that isn’t your own always results permanent failure of understanding concept.:imp:
 
