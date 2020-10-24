@@ -3,7 +3,7 @@
 #define endl '\n'
 using namespace std;
 
-int  main(){
+int32_t main(){
 	int n;
 	cin>>n;
 	int p[n];
