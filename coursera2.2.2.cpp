@@ -13,6 +13,7 @@ long long int n,i,m;
         a[i]=(a[i-1]+a[i-2])%m;
     }
      printf("%lld",a[n]%m);
+     
  }
 
 }
