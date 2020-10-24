@@ -1,7 +1,6 @@
 //Saurabhsahab
 #include <bits/stdc++.h>
-#define max 100000000
-#define ll long long 
+#define ll long long
 using namespace std;
 vector<ll> fib;
 void fibonacci(long long n){
@@ -22,5 +21,5 @@ int main(){
 	fibonacci(n+1);
 	long long f = fib[n];
 	long long s = fib[n+1];
-	cout<<(f*s)%10;
+	cout<<(f%10*s%10)%10;
 }
