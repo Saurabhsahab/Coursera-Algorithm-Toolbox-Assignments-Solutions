@@ -10,7 +10,7 @@
  #### :raised_hands:	 Follow me on
  
  ####                            **HackerEarth** --> https://www.hackerearth.com/@stylebender
- ####                            **Codeforces** --> https://codeforces.com/profile/Saurabh_19
+ ####                            **Codeforces** --> https://codeforces.com/profile/korvac
  ####                            **CodeChef** --> https://www.codechef.com/users/stylebender
 
 
